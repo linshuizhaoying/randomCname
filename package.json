@@ -1,0 +1,23 @@
+{
+  "name": "randomCname",
+  "version": "1.0.1",
+  "description": "a module of chinese name generate",
+  "main": "randomCname.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linshuizhaoying/randomCname.git"
+  },
+  "keywords": [
+    "random",
+    "chinesename"
+  ],
+  "author": "linshuizhaoying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linshuizhaoying/randomCname/issues"
+  },
+  "homepage": "https://github.com/linshuizhaoying/randomCname#readme"
+}

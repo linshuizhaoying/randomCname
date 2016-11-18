@@ -2,7 +2,7 @@
 
 ##1. Install randomCname.js
 
-## npm install randomCname.js
+### npm install randomCname.js
 
 ##2. Import randomCname.js
 
@@ -21,10 +21,12 @@ or link with script in html files:
 
  * 指定数量，性别，名字单双
  * randonCname.result(number,sex,single/double)
- * 指定姓氏
- * randomCname.assign(lastNameArr)
+ * 指定姓氏数组
+ * randomCname.assignLastNameArr()
  * 唯一性
  * randomCname.unique
+
+```
 
 ```
 
@@ -44,5 +46,6 @@ RandomCnameInstance.unique().result(10)
 RandomCnameInstance.assignLastNameArr(['郑','钱']).result(10,'male','single');
 =>["钱文栋", "钱雅志", "郑兴德", "郑向文", "钱学民", "郑温茂", "钱博厚", "钱修筠", "钱振海", "郑高爽"]
 
+```
 
 
