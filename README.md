@@ -1,13 +1,13 @@
 #1. Usage
 
-##1. Install randomCname.js
+##1. Install randomCname
 
-### npm install randomCname.js
+### npm install randomCname
 
-##2. Import randomCname.js
+##2. Import randomCname
 
 ES6 style is supported, then get global object: randomCname.
-import RandomCname from 'randomCname.js';
+import RandomCname from 'randomCname';
 
 // or
 
