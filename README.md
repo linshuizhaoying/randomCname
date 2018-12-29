@@ -1,8 +1,10 @@
-#1. Usage
+# RandomCNName
 
 ##1. Install randomCname
 
-### npm install randomCname
+```
+npm install randomCname
+```
 
 ##2. Import randomCname
 
