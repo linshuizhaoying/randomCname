@@ -1,23 +1,32 @@
-# RandomCNName
+# RandomCname
 
-##1. Install randomCname
+## 1. Install randomCname
 
 ```
 npm install randomCname
 ```
 
-##2. Import randomCname
+## 2. Import randomCname
 
 ES6 style is supported, then get global object: randomCname.
+
+```
 import RandomCname from 'randomCname';
+```
 
-// or
+or
 
+```
 var RandomCname = require("randomCname.js");
+```
+
 or link with script in html files:
 
+```
 <script src="randomCname.js"></script>
-3. Use class RandomCname
+```
+
+## 3. Use class RandomCname
 
 ```
 
